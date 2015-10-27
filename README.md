@@ -4,14 +4,15 @@ Several examples to test accessibility of TeX documents.
 
 ## Links
 
-* Talks of Ross More:
-
+* TUG
+	* https://www.tug.org/twg/accessibility/ -- various links (PDF accessibility and PDF standards, papers, talks, TeX packages)
+  
+* Talks of Ross Moore:
 	* TeX + MathML for Tagged PDF, the next frontier in mathematical typesetting, http://river-valley.zeeba.tv/tex-mathml-for-tagged-pdf-the-next-frontier-in-mathematical-typesetting/
 	* Towards tagged PDF, http://river-valley.zeeba.tv/towards-tagged-pdf/
 	* Further advances toward Tagged PDF for mathematics, http://river-valley.zeeba.tv/further-advances-toward-tagged-pdf-for-mathematics/
 
 * tex.stackexchange.com
-
 	* http://tex.stackexchange.com/questions/124291/revisiting-producing-structured-pdfs-from-latex
 	* http://tex.stackexchange.com/questions/124291/revisiting-producing-structured-pdfs-from-latex/194226#194226
 	* http://tex.stackexchange.com/questions/76027/accessibility-issues
