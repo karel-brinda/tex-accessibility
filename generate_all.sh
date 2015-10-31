@@ -21,3 +21,6 @@ latex latex__czech_utf8
 dvips latex__czech_utf8
 ps2pdf latex__czech_utf8.ps latex+dvips+ps2pdf__czech_utf8.pdf
 
+# context
+context context__czech_utf8
+
